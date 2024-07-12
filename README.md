@@ -16,7 +16,7 @@ Scarlet is an alternative to the App Store and Cydia, providing advanced feature
 
 Download the Scarlet IPA file by clicking the links below. You can also use Direct Install links to send the IPA file to your preferred iOS signing application, such as TrollStore, Sideloadly, AltStore, Scarlet, and ReProvision. Other options include Bullfrog Assistant, Esign, or Gbox.
 
-[Scarlet IPA](https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa)
+[Scarlet IPA](https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa)  
 [Scarlet IPA for TrollStore](https://resources.usescarlet.com/repo/IPAs/Entitled.ipa)
 
 ## Features
